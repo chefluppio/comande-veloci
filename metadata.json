@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Order Taker",
+  "description": "A simple and elegant web application for restaurant staff to take down customer orders, including dish, table number, quantity, and any special modifications. It features an AI-powered dish suggestion tool to inspire creativity.",
+  "requestFramePermissions": []
+}
